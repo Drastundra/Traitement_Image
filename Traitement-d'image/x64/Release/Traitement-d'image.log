@@ -1,0 +1,45 @@
+﻿  Bitmap.cpp
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Bitmap.cpp(154,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Process.cpp
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(52,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(52,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(53,59): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(53,39): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(54,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(54,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(62,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(62,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(75,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(75,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(77,48): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(77,33): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(78,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(78,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(78,101): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(78,86): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(80,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(80,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(87,43): warning C4244: 'return': conversion from '__int64' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(99,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(100,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(102,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(102,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(111,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(111,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(113,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(113,27): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(114,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(114,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(114,89): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(114,80): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(116,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(116,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(124,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(124,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  13 of 260 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Traitement-d'image.vcxproj -> C:\Users\greyw\source\repos\Traitement-d'image\x64\Release\Traitement-d'image.exe

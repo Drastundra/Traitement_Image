@@ -1,0 +1,37 @@
+﻿  Process.cpp
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(60,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(60,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(61,59): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(61,39): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(62,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(62,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(70,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(70,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(83,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(83,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(85,48): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(85,33): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(86,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(86,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(86,101): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(86,86): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(88,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(88,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(95,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(107,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(108,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(110,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(110,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(119,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(119,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(121,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(121,27): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(122,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(122,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(122,89): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(122,80): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(124,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(124,36): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(131,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\greyw\source\repos\Traitement-d'image\Traitement-d'image\Process.cpp(131,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Traitement-d'image.vcxproj -> C:\Users\greyw\source\repos\Traitement-d'image\x64\Debug\Traitement-d'image.exe
